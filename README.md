@@ -1,7 +1,4 @@
-# Dashboard.jsx
-Vibe/vibe
 import React, { useState } from 'react';
-
 /**
  * @title VibeVibeAIQuantDashboard - Frontend Blueprint
  * @dev High-fidelity UI component featuring automated Privy authentication hooks,
